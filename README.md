@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus Aguiar Farias
+# Matheus Aguiar Farias
 
 **`Desenvolvedor FullStack`**
 
