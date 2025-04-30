@@ -1,6 +1,6 @@
 # Matheus Aguiar Farias
 
-**`Desenvolvedor FullStack`**
+**`Software Engineer`**
 
 Sou um desenvolvedor apaixonado por tecnologia e por tudo que elas nos possibilitam.
 Atualmente tenho 26 anos e estou cursando Engenharia de Software.
