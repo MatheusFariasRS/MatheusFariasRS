@@ -3,7 +3,7 @@
 **`Software Engineer`**
 
 Sou um desenvolvedor apaixonado por tecnologia e por tudo que elas nos possibilitam.
-Atualmente tenho 26 anos e estou cursando Engenharia de Software.
+Atualmente tenho 26 anos e estou cursando Sistemas de Informação na Unisinos.
 
 ---
 
