@@ -2,9 +2,8 @@
 
 **`Software Engineer`**
 
-Sou um desenvolvedor apaixonado por tecnologia e por tudo que elas nos possibilitam.
-Atualmente tenho 26 anos e estou cursando Sistemas de Informação na Unisinos.
-
+I'm a developer passionate about technology and everything it enables.
+I'm currently 26 years old and studying Information Systems at Unisinos.
 ---
 
 ### 🤖 Linguagens e Tecnologias
