@@ -3,7 +3,7 @@
 **`Software Engineer`**
 
 I'm a developer passionate about technology and everything it enables.
-I'm currently 26 years old and studying Information Systems at Unisinos.
+I'm currently 27 years old and studying Information Systems at Unisinos.
 ---
 
 ### 🤖 Linguagens e Tecnologias
