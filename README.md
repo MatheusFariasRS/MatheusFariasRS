@@ -64,9 +64,4 @@ Developer focused on backend development, building REST APIs.
 
 <br/><br/>
 
-<img 
-  align="left" 
-  height="180" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFariasRS&theme=tokyonight&layout=compact&custom_title=Tech%20Stack&langs_count=9" 
-/>
 
