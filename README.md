@@ -4,9 +4,10 @@
 building REST APIs and shipping projects to production.  
 🎓 Information Systems @ Unisinos
 
-## MyFute (live)
+MyFute (live)
 Football match organizer with player ratings and team balancing — built end-to-end and deployed with a custom domain.  
-Web: https://myfute.com.br • API: https://api.myfute.com.br
+• Web: https://myfute.com.br 
+• API: https://api.myfute.com.br
 ---
 
 <img 
