@@ -1,9 +1,12 @@
 # Matheus Aguiar Farias
 
 **Backend Software Engineer | Java & Spring Boot**
+building REST APIs and shipping projects to production.  
+🎓 Information Systems @ Unisinos
 
-Developer focused on backend development, building REST APIs.  
-27 years old, studying Information Systems at Unisinos.
+## MyFute (live)
+Football match organizer with player ratings and team balancing — built end-to-end and deployed with a custom domain.  
+Web: https://myfute.com.br • API: https://api.myfute.com.br
 ---
 
 <img 
