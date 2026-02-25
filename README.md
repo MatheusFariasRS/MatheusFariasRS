@@ -1,7 +1,7 @@
 # Matheus Aguiar Farias
 
 **Backend Software Engineer | Java & Spring Boot**  
-Building REST APIs and shipping projects to production.  
+Building REST APIs with Java/Spring Boot and deploying to production.  
 🎓 Information Systems @ Unisinos
 
 ## MyFute (live)
