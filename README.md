@@ -1,13 +1,14 @@
 # Matheus Aguiar Farias
 
-**Backend Software Engineer | Java & Spring Boot**
-building REST APIs and shipping projects to production.  
+**Backend Software Engineer | Java & Spring Boot**  
+Building REST APIs and shipping projects to production.  
 🎓 Information Systems @ Unisinos
 
-MyFute (live)
-Football match organizer with player ratings and team balancing — built end-to-end and deployed with a custom domain.  
-• Web: https://myfute.com.br 
-• API: https://api.myfute.com.br
+## MyFute (live)
+Football match organizer with player ratings and team balancing.
+
+- Web: https://myfute.com.br
+- API: https://api.myfute.com.br
 ---
 
 <img 
