@@ -3,12 +3,6 @@
 **Backend Software Engineer | Java & Spring Boot**  
 Building reliable end-to-end systems — test-focused, API-first, shipped to production.  
 🎓 Information Systems @ Unisinos
-
-## MyFute (live)
-Football match organizer with player ratings and team balancing.
-
-- Web: https://myfute.com.br
-- API: https://api.myfute.com.br
 ---
 
 <img 
