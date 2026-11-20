@@ -1,6 +1,6 @@
 # Matheus Aguiar Farias
 
-**Data Engineering | Python, SQL, AWS & Databricks**
+**Data Engineering | AWS, Terraform, PySpark, Airflow & Python**
 🎓 Information Systems @ Unisinos
 
 ---
@@ -59,19 +59,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 ## About
 
-I build data pipelines end to end: extraction from APIs and databases, a Medallion data lake
-(raw, bronze, silver), data contracts and analytics-ready tables for BI.
-I am currently migrating a production pipeline from a local setup to AWS, managed with Terraform.
+I build production data platforms end-to-end on AWS, fully provisioned with Terraform (IaC). My work covers automated ingestion from REST APIs and relational databases, Medallion lakehouse architecture (Raw, Bronze, Silver, Gold), JSON Schema data contracts, and analytics-ready tables powering BI dashboards.
+
+With a strong foundation in software engineering and backend development, I apply strict reliability practices to data pipelines—including containerization, CI/CD workflows, static type checking, and comprehensive automated testing.
 
 ## What I work with
 
-- **Ingestion and orchestration:** Python, Apache Airflow, REST APIs, MySQL, JSON Schema data contracts, Docker
-- **Processing and storage:** PySpark, Delta Lake, Medallion architecture, incremental loads, SCD Type 2, SQL
-- **Cloud (AWS):** S3, Glue, Athena, IAM, Secrets Manager, Terraform (in progress), Databricks (learning)
-- **Quality and delivery:** Pytest, Ruff, mypy, uv, Git, GitHub Actions (CI), Linux
-- **Analytics:** Power BI, Looker Studio
+- **Ingestion & Orchestration:** Python, Apache Airflow, REST APIs, MySQL, PostgreSQL, JSON Schema data contracts, Docker
+- **Processing & Storage:** PySpark, Delta Lake, Medallion Architecture (Bronze, Silver, Gold), incremental loads, SCD Type 2, SQL
+- **Cloud & Infrastructure (AWS):** S3, AWS Glue, Amazon Athena, IAM, Secrets Manager, Terraform (IaC)
+- **Software Engineering & Quality:** Automated Testing (Pytest), Ruff, mypy, GitHub Actions (CI), Git, Linux, Java / Spring Boot
+- **Analytics & BI:** Power BI, Looker Studio
 
 ## Currently
 
-- Migrating a data pipeline to AWS (S3, Glue, Athena) with infrastructure as code
-- Studying Terraform and AWS data engineering
+- Automating Continuous Deployment (CD) pipelines via GitHub Actions with AWS OIDC and Terraform
+- Optimizing AWS data workloads and query performance across Glue, S3, and Athena
